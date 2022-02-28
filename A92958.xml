@@ -1,0 +1,590 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercy in a miracle shewing, the deliverance, and the duty, of the king, and the people In a sermon preached at Mitcham in Surry, June 28. 1660 in a solemne congratulation for the restoration of his Majesty to his royal throne. By Anthonie Sadler, late chaplain, to the right honourable Leticia, Lady Pagett, Dowager, deceased.</title>
+            <author>Sadler, Anthony, b. 1610.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92958</idno>
+            <idno type="STC">Wing S268</idno>
+            <idno type="STC">ESTC R230425</idno>
+            <idno type="EEBO-CITATION">99896277</idno>
+            <idno type="PROQUEST">99896277</idno>
+            <idno type="VID">154067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2396:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercy in a miracle shewing, the deliverance, and the duty, of the king, and the people In a sermon preached at Mitcham in Surry, June 28. 1660 in a solemne congratulation for the restoration of his Majesty to his royal throne. By Anthonie Sadler, late chaplain, to the right honourable Leticia, Lady Pagett, Dowager, deceased.</title>
+                  <author>Sadler, Anthony, b. 1610.</author>
+                  <author>Vaughan, Robert, engraver.</author>
+               </titleStmt>
+               <extent>[8], 20 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by T.C. for L. Sadler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a verse on A1v and an illustration on A2r. The verse is titled: "The author on his frontispiece." and the illustration is signed: Vaughan sculp.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="explanation_of_frontispiece">
+            <pb facs="tcp:154067:1"/>
+            <head>The AUTHOR ON His <hi>FRONTISPIECE.</hi>
+            </head>
+            <l>THat each fair Fancy, may the Fancy find,</l>
+            <l>Of th'Emblems meaning, and the Authors mind:</l>
+            <l>The Moral of the Model's This.<hi>—The Tree,</hi>
+            </l>
+            <l>Preſents the King<hi>: cut down,</hi> His Tragedy.</l>
+            <l>
+               <hi>No Feller ſeen—;</hi> the Murder in Diſguiſe.</l>
+            <l>
+               <hi>The Dead Tree-Dry—;</hi> the King's poor Obſequies.</l>
+            <l>
+               <hi>The Regall Scepter broke; and ſtately Crown,</hi>
+            </l>
+            <l>
+               <hi>By Rebells Fury turned upſide-down;</hi>
+            </l>
+            <l>Do ſhew a Change of State. Records are burn'd;</l>
+            <l>And Monarchy to Anarchy is turn'd.</l>
+            <l>
+               <hi>The Root, not Dead—;</hi> doth Emblemize the ſtrength,</l>
+            <l>Of happy Hope, to Sprout again, at length.</l>
+            <l>
+               <hi>The lively Branches—,</hi> are the Iſſue Royall.</l>
+            <l>
+               <hi>The Angel's Trumpet—,</hi> is the Subject Loyall.</l>
+            <l>
+               <hi>The Mode Triumphall, with a flying Wing;</hi>
+            </l>
+            <l>Is <hi>England</hi>'s Joy, our Soveraign's Welcoming<g ref="char:punc">▪</g>
+            </l>
+            <l>
+               <hi>The Taller Branch, its growing through a Crown;</hi>
+            </l>
+            <l>The King his Birth-right ſhews; the Crown, his Own.</l>
+            <l>
+               <hi>The other Two, alike in Leaves, but Lower;</hi>
+            </l>
+            <l>Shew their Alliance to the Higher Power.</l>
+            <l>
+               <hi>The Hand, above—;</hi> is God. <hi>The Water-pot,</hi>
+            </l>
+            <l>Is Providence. <hi>The Streams that do allot,</hi>
+            </l>
+            <l>
+               <hi>Each Branch, his Sent of Water—;</hi> are God's Grace,</l>
+            <l>To make us Lovall, to the Royal Race.</l>
+            <l>Thus, th'Emblem is Divine<hi>:</hi> the Moral, plain<hi>:</hi>
+            </l>
+            <l>Divinely-moral, in each Soveraign;</l>
+            <l>King <hi>Charles</hi> the Firſt, His Murder: and His Son,</l>
+            <l>King <hi>Charles</hi> the Second's Reſtoration.</l>
+            <closer>
+               <signed>So ſaith <hi>Anthony Sadler.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:154067:1"/>
+            <p>
+               <figure>
+                  <q>There is hope of a Tree if it be cut downe that it will sprout againe, and y<hi rend="sup">e</hi> branches thereof will not cease, though y<hi rend="sup">e</hi> root of it wax old in y<hi rend="sup">e</hi> Earth, and the stocke thereof be dead in the Ground; yet by the ſent of water it will bud, &amp; bring forth boughs like a Plant. <bibl>
+                        <hi>Job.</hi> 14. 7. 8. 9.</bibl>
+                  </q>
+                  <byline>Maughan ſculp</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:154067:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154067:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154067:3"/>
+            <pb facs="tcp:154067:3"/>
+            <p> MERCY in a MIRACLE SHEWING, The Deliverance, and the Duty, OF The KING, and the People.</p>
+            <p>IN A SERMON</p>
+            <p>Preached at <hi>Mitcham</hi> in <hi>Surry, June</hi> 28. 1660. in a Solemne CONGRATULATION For the Reſtoration of his Majeſty to his Royal Throne.</p>
+            <p>BY ANTHONIE SADLER, Late Chaplain, to the Right Honourable <hi>Leticia,</hi> Lady <hi>Pagett, Dowager,</hi> Deceaſed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. C.</hi> for L. <hi>Sadler,</hi> 1660.</p>
+            <pb facs="tcp:154067:4" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154067:4"/>
+            <head>TO THE KING HIS Moſt Excellent MAJESTY.</head>
+            <opener>
+               <salute>Dread SOVERAIGN,</salute>
+            </opener>
+            <p>
+               <hi>CUſhi</hi> in the Court gave happy Coun<g ref="char:EOLhyphen"/>ſell; and <hi>Ahimaaz</hi> from the Camp, brought happy Tidings, for the Pre<g ref="char:EOLhyphen"/>ſervation, and Reſtoration of King <hi>David.</hi>
+            </p>
+            <p>But—my poor ſelf (having neither Counſell to give, nor Tidings to bring unto my <hi>Lord,</hi> the <hi>King)</hi> I—even I (ſtanding ſtill, to ſee the Work, the great Work of God; in the Becalm<g ref="char:EOLhyphen"/>ing of this ſo Tempeſtuouſly-factious Nation) have, I have indeed, Gratefully beheld, and Publickly declar'd, the mercifull diſpenſations of Gods wonderfull providence, towards your <hi>Majeſty,</hi> and your <hi>People.</hi>
+            </p>
+            <p>Your (Long Baniſhed) Royall Self, is now Reſtored to your proper Throne: and your (long Enſlaved) Loyall People, are now Reſtored to their proper Freedom.</p>
+            <p>May your <hi>Majeſty</hi> be ever thankfull to the
+<pb facs="tcp:154067:5"/> Lord: ſeeing—the Honour is <hi>Yours:</hi> the Happineſs, is <hi>Ours:</hi> and the Glory, <hi>His.</hi>
+            </p>
+            <p>May your People alſo be, ever Loyall to your <hi>Majeſty—</hi>being,</p>
+            <p>
+               <hi>Englands</hi> Monarch, as to your Birth:</p>
+            <p>Gods <hi>Vice-gerent,</hi> as to your Right:</p>
+            <p>
+               <hi>Chriſtendomes</hi> Mirrour, as to your Virtues:</p>
+            <p>And the Worlds Wonder, as to your Reſtoration.</p>
+            <p>Nor is my Tongue now only, as the Pen of a <note place="margin">
+                  <hi>Since the firſt apprehen<g ref="char:EOLhyphen"/>ding of my Perſon by a Troope of Horſe, 1643. but eſpecially 1654. under the (ſo call<g ref="char:EOLhyphen"/>ed) Protector his (ſo called) Councel of State, and his (ſo called) Commiſſion<g ref="char:EOLhyphen"/>ers, for my</hi> In<g ref="char:EOLhyphen"/>quiſitio Angli<g ref="char:EOLhyphen"/>cana.</note> ready Writer; neither is my Pen now only, as the Tongue of a ready Orator; ſurely no:</p>
+            <p>My known Loyalty, will vindicate mine In<g ref="char:EOLhyphen"/>tegrity; and my known Sufferings, will Vindi<g ref="char:EOLhyphen"/>cate my Loyalty, from all Flattery and Falſ<g ref="char:EOLhyphen"/>hood. Yea—</p>
+            <p>This very Sermon will preſent your <hi>Majeſty</hi> with all the Loyall Zeal, and affectionate Loy<g ref="char:EOLhyphen"/>alty; that was, and is, and ſhall be ever (as due) confeſſ'd, and (as true) obſerv'd;</p>
+            <closer>
+               <signed>by—Your Majeſties—Moſt Obſequious—And Obſervant—Subject. ANTHONIE SADLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154067:5"/>
+            <head>
+               <hi>MERCY in a MIRACLE.</hi> S<hi rend="sup">t.</hi> MATTHEW, 8. 25. <hi>Lord ſave us, we Periſh.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He happy iſſue of this Text, joyfully preſents you, with the juſt cauſe of this dayes ſolemnity: for, the Text implies, and this day expreſſes, a Solemn Thanksgiving for ſome great Delive<g ref="char:EOLhyphen"/>rance.</p>
+            <p>The Dſciples were in a raging ſtorm, and ſo (God knowes) were we<g ref="char:punc">▪</g> their Storm was made a Calm, and ſo (Gods name be praiſ'd) is Ours.</p>
+            <p>The danger of the Diſciples caſe was very Obvious, and their Preſervation was very Eminent; being wrought by Gods natural Son, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the Chriſt of God, and the Saviour of the World.</p>
+            <p>As for our Caſe, the Caſe of poor <hi>England,</hi> the Caſe of a ſinful Nation, (and therefore juſtly miſerable) the caſe of a miſerable Nation, (and therefore juſtly ſad) Ah my brethren, we were ſo near a Ruine, utter Ruine (becauſe deſerv'd) that—our Preſervation, was not only Eminent, but ſtrange: ſo ſtrange, that (as when God turned again the Captivity of <hi>Jacob)</hi> we (as people in a Dream) do ſcarce believe the Truth of ſo ſtrange a Preſervation.</p>
+            <p>A Preſervation, at ſuch a time—when (firſt) the whole Land was diſtracted, with as many Miſeries as Opinions.</p>
+            <p>When (Secondly) the very brands was kindled to ſet the pile on Fire.</p>
+            <p>When (Thirdly) the Royall City was made a Scorn, the
+<pb n="2" facs="tcp:154067:6"/> Chaines and Poſts broken up; the Gates and Perculleſſes bro<g ref="char:EOLhyphen"/>ken down.</p>
+            <p>When (Fourthly) all the Royall Progeny, all the Honou<g ref="char:EOLhyphen"/>rable Nobility, all the Reverend Clergy, all the loyall Gentry, and all the true-hearted Commonalty of the Land, were diſ<g ref="char:EOLhyphen"/>dained and proſcribed to a bloody Maſſacre.</p>
+            <p>When (Fifthly) ſome Fear'd, others wonder'd and All com<g ref="char:EOLhyphen"/>plain'd. In a word—</p>
+            <p>When we knew not what to do, nor where to go<hi>:</hi> that—then, (now in this ſo violent a Tempeſt; a Tempeſt of more then common deſpair) that, then the great God of Heaven and Earth, ſhould (upon a ſudden) in a way ſo unlikely, and at a time ſo needful, ſhould ſo turn about (as he hath now done) the great. Wheele of all Tranſactions: This, oh this (as the ſhadow upon the Diall, <hi>
+                  <g ref="char:V">Ʋ</g>mbra diem, docet umbra deum)</hi> certainly, it could not but tell us, that God was there.</p>
+            <p>God was there indeed, for though the inſtrument was ob<g ref="char:EOLhyphen"/>vious; yet the work was miſterious, and God in Both.</p>
+            <p>Let the Lord <hi>Monke</hi> have his deſerved praiſe; yea, and his reward too, but let the Lord of Hoſts, God Almighty, have all the Glory, and our thanks for ever.</p>
+            <p>For, As great Deliverance hath God given to his King, as to his people; yea to the people, by their King, Gods Adop<g ref="char:EOLhyphen"/>ted Son, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſure foundation of a ſetled ſtate.</p>
+            <p>O ſee what it is to wait upon God: God may delay, but he will not deny, to help his ſervants.</p>
+            <p>Witneſſe the return of our Soveraign, to his Throne; and his Subjects to their Freedome.</p>
+            <p>The Lord make his Majeſty truly Happy; his People truly Loyal; and all truly thankful; for this Regal Reſtauration. thus—</p>
+            <p>If God ſtop his Ears, it is to open our mouths; if he afflict us, tis to make us pray<hi>—Lord ſave us, we Periſh.</hi>
+            </p>
+            <p>The Text (in General) is a prayer; wherein we might obſerve theſe three things.</p>
+            <list>
+               <item>1. The Form of it.</item>
+               <item>2. The Authors of it. and—</item>
+               <item>3. The Reaſon of it.</item>
+            </list>
+            <pb n="3" facs="tcp:154067:6"/>
+            <p> or if you pleaſe</p>
+            <p>We might obſerve theſe four things,</p>
+            <list>
+               <item>1. The Deliverer, in the word, LORD.</item>
+               <item>2. The Deliverance, in the word, SAVE.</item>
+               <item>3. The Delivered, in the word, US.</item>
+               <item>4. and Laſtly, the Impulſive Cauſe thus moving them to ſupplicate, that Deliverer, for this Deliverance, to his De<g ref="char:EOLhyphen"/>livered in the word PERISH.</item>
+            </list>
+            <p>
+               <hi>Lord ſave us, we Periſh.</hi>
+            </p>
+            <p>Thus is the Text a Prayer, and a Common Prayer too: here is <hi>(reſonantia compaſſionis)</hi> a fellow-feeling of each o<g ref="char:EOLhyphen"/>thers Condition<hi>:</hi> and here is <hi>(conſonantia orationis)</hi> an holy Fellowſhip in each others ſupplication.</p>
+            <p>Each with, and each for other prayes<hi>:</hi> and all pray, and altogether<hi>:</hi> ſaying, <hi>Lord ſave us, we Periſh.</hi>
+            </p>
+            <p>And the Uſe of this, is to teach us; that Common-prayer (and in ſpecial that of the Church of <hi>England,</hi> made publick to the World by many Renowned and Godly Princes; by many Reverend and Religious Prelates; by many lawful and Zealous Parliaments. 1. To be ſo ſound and Orthodox, that the Doctrinal part, is part of our Religon. &amp; 2. So plain and eaſie, that the meaneſt Capacity may know what to ſay; and to ſay <hi>Amen</hi> to what he knows.) Common-prayer it is <hi>(vis unita)</hi> Religion made ſtrong in piety towards God; it is <hi>Vinculum Charitatis,)</hi> Religion made known, in Charity to<g ref="char:EOLhyphen"/>wards our Neighbours.</p>
+            <p>For, 1. It ſhewes forth each others minds.</p>
+            <p>2. It helpes forward each others duty.</p>
+            <p>And, 3. It brings about each others purpoſe, to have what we pray for; and to give the Lord the glory.</p>
+            <p>It was even ſo with theſe Diſciples, the Caſe of One was the Caſe of All; and the Prayer of One, was the Prayer of All<hi>:</hi> They be All as One, in point of their Condition; and They be All as One, in point of Their Supplication<hi>:</hi> And if we be (as They were) in one common Danger, we muſt ſay (as
+<pb n="4" facs="tcp:154067:7"/> they did) in one Common Prayer,<hi>—Lord ſave us, we Periſh.</hi>
+            </p>
+            <p>But to paſſe by this of the Text (in generall,) there is (in particular) a twofold meaning, to be given of theſe words.</p>
+            <p>The firſt, is Litteral and plain.</p>
+            <p>The ſecond, is myſticall and obſcure.</p>
+            <p>In the Litterall ſence is meant, Affliction and Trouble, ſig<g ref="char:EOLhyphen"/>nified by that outward Tempeſt, which our bleſſed Saviour, and his Diſciples, were now in.</p>
+            <p>In the miſticall ſence is meant Tranſgreſſion and Sin, ſigni<g ref="char:EOLhyphen"/>fied by that inward Tempeſt, which the poor forlorne ſoul is woefully toſſed with, through her guilt and feare; her guilt of Sin, and feare of Puniſhment. now—</p>
+            <p>In point of Affliction, man is a Sufferer.</p>
+            <p>In point of Tranſgreſſion, man is an Offender.</p>
+            <p>In point of both, God only is a Saviour.</p>
+            <p>So that the ſenſe of the word, is this;</p>
+            <p>
+               <hi>Lord ſave us; elſe we periſh in our Sins:</hi>
+            </p>
+            <p>OR,</p>
+            <p>
+               <hi>Lord ſave us, elſe we periſh in our Sufferings.</hi>
+            </p>
+            <p>In the miſticall ſenſe (whereby is meant Tranſgreſſion; and wherein man is an Offender,) you have theſe 3. Obſer<g ref="char:EOLhyphen"/>vations</p>
+            <p>Firſt, That our Naturall Condition is a ſinfull Condition, full of feare.<hi>—SAVE <g ref="char:V">Ʋ</g>S.</hi>
+            </p>
+            <p>2. That our ſinfull Condition, is a woefull Condition, fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of danger.<hi>—WE PERISH.</hi>
+            </p>
+            <p>3. That our poor Souls are undone for ever, if they be not preſerved by a Gracious Saviour:<hi>—Lord Save us, we Pe<g ref="char:EOLhyphen"/>riſh.</hi>
+            </p>
+            <p>But in the litterall ſenſe (whereby is meant affliction; and wherein man is a Sufferer) one Obſervation only (which ſhall be God willing the ſubject of my diſcourſe) Preſents its ſelf, as moſt remarkable, and it is this.—</p>
+            <p>That the condition of all mankind, while they are on this ſide Heaven, is a very ſad condition.</p>
+            <pb n="5" facs="tcp:154067:7" rendition="simple:additions"/>
+            <p> And that for theſe three Reaſons. becauſe,</p>
+            <p>Firſt, it is ſad Naturally.</p>
+            <p>2. It is ſad Univerſally: and,</p>
+            <p>3. It is ſad Continually.</p>
+            <div type="part">
+               <head>
+                  <hi>FIRST,</hi> It is ſad Naturally.</head>
+               <p>From the King to the Begger the way of <hi>Job</hi> is the way of all, to come into the World <hi>Naked.</hi>
+               </p>
+               <p>
+                  <hi>Naked came I</hi> (ſaith he,) <hi>out of my Mothers wombe;</hi> It is true by experience, and true upon record. <hi>Job</hi> 1. 21.</p>
+               <p>And as we are born Naked, ſo are we born miſerable: for (from him that ſits upon the Throne, to him that ſits upon the Dung-hill,) the ſaving of <hi>Eliphaz</hi> is applicable to all.<hi>—Man is born unto trouble, as the Sparks fly upwards. Job.</hi> 5. 7.—The ſparks fly upwards, becauſe by nature they are <hi>Light:</hi> and Man is born unto Trouble, becauſe by Nature he is ſinful: ſo ſinful, that <hi>(flebile principium)</hi> he is no ſooner born, but he Cryes; Thus—</p>
+               <p>Mans firſt entrance on this Earthly Stage,</p>
+               <p>Is ſolemniz'd with Tears<hi>:</hi> a ſtrange Praeſage,</p>
+               <p>Of ſtranger paſſages: his Infant—Cryes.</p>
+               <p>True-tragical-events, do Oraelize.</p>
+               <p>They do indeed, for puniſhment is the effect of ſin; and Man being born ſinful, he is therefore born miſerable; his Condition on this ſide Heaven is a ſad Condition; even Natu<g ref="char:EOLhyphen"/>rally:—that's the Firſt Reaſon.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>SECONDLY,</hi> It is ſad <g ref="char:V">Ʋ</g>niverſally.</head>
+               <p>I ſhall not inſtance, in the Troubles of <hi>David;</hi> (who was the moſt Upright, and Famous among the <hi>Jewes.</hi>
+               </p>
+               <p>Nor (2.) ſhall I inſtance in the Afflictions of St. <hi>Paul</hi> (who was the moſt Learned, and zealous among the <hi>Gentiles.)</hi>
+               </p>
+               <p>Nor (3.) ſhall I inſtance in the <hi>Cataſtrophe Policrates</hi> (who
+<pb n="6" facs="tcp:154067:8"/> was the moſt Fortunate and Flouriſhing among the Heathen.)</p>
+               <p>Nor (4) ſhall I inſtance in the Solicitudes and Sufferings of the late King <hi>Charles,</hi> (who was the moſt Excellent of Princes; and the beſt among Chriſtians.) no,</p>
+               <p>None of theſe; ſhall Center the Lines of my diſcourſe; but I ſhall inſtance One for All, and that is—our Bleſſed Saviour (who was and is, and is for ever; the Son, the only Son, <hi>(primogenitus, unigenitus)</hi> and the beſt beloved of his Father.</p>
+               <p>God had one Son without Sinne; but not one without Sor<g ref="char:EOLhyphen"/>row. No, Chriſt himſelf, to whom all things do bow and o<g ref="char:EOLhyphen"/>bey: He before whom the bleſſed Angels worſhip, &amp; the divels themſelves do tremble: (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) God-and-Man, and between God and man the only Mediator: He whoſe name is <hi>wonderfull Councellor, the mighty God, the everlaſting Father; the Prince of Peace, Eſay.</hi> 9. 6. He, even He, as he is man, and lives here in this vally of Teares, He, even He, muſt be a weeping too; and his Condition is a very ſad Condition. Yea, ſo very ſad, we do not read that (at any time) he Laught, but that he <hi>Wept</hi> we find thrice upon Record:</p>
+               <list>
+                  <item>1. Over <hi>Jeruſalem</hi> he <hi>Wept</hi> there.</item>
+                  <item>2. At the grave of <hi>Lazarus</hi> he <hi>Wept</hi> there.</item>
+                  <item>3. In the garden, upon his Antepaſſion, he <hi>Wept</hi> there.</item>
+               </list>
+               <p>He <hi>wept</hi> for <hi>Jeruſalem,</hi> ſo ſaith St. <hi>Luke. He beheld the City and wept over it.</hi>
+               </p>
+               <p>He <hi>wept</hi> for <hi>Lazarus,</hi> ſo ſaith St. <hi>John, Jeſus wept,</hi> then ſaid the Jewes, <hi>behold how he loved him,</hi> John 11. 35. 36.</p>
+               <p>Laſtly, he <hi>wept</hi> for Himſelf, ſo ſaith St. <hi>Paul, In the daies of his fleſh, he offered up ſtrong Crying and Tears, unto him that was able to ſave him from Death,</hi> Heb. 5. 7.—thus</p>
+               <p>For <hi>Jeruſalem,</hi> he wept Tears of Compaſſion.</p>
+               <p>For <hi>Lazarus</hi> he wept, Tears of Affection.</p>
+               <p>For himſelf he wept, Tears of Lamentation.</p>
+               <p>The ſtory in this Chapter (in which you have my Text,) will witneſſe the Obſervation true, for if Jeſus Chriſt himſelf be upon the Sea, the ſhip he ſailes in ſhall be dangerouſly toſ<g ref="char:EOLhyphen"/>ſed; and the Diſciples with him ſhall be exceedingly affraid<hi>:</hi> So affraid, that they ſhall haſtily diſquiet their Lords repoſe,
+<pb n="7" facs="tcp:154067:8" rendition="simple:additions"/> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough hee be aſleep, they will not let him reſt; for they came to him and awoke him ſaying, <hi>Lord ſave us, we pe<g ref="char:EOLhyphen"/>riſh.</hi>
+               </p>
+               <p>Thus, is our Condition, on this Heaven, a very ſad Condi<g ref="char:EOLhyphen"/>tion; becauſe,—</p>
+               <p>It is ſo <hi>
+                     <g ref="char:V">Ʋ</g>niverſally,</hi> that's a ſecond Reaſon.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>THIRDLY,</hi> It is ſad Continually.</head>
+               <p>
+                  <hi>I had no peace</hi> (ſaith <hi>Job) neither had</hi> I <hi>quietneſſe, neither had</hi> I <hi>reſt; yet trouble came, Job,</hi> 3. 26. it came indeed, it came with a witneſſe; yea, it came with four witneſſes, each after other<hi>:</hi> and all upon a ſuddain, to ſalute their Maſter, with their mournful news, ſaying—The Oxen were plow<g ref="char:EOLhyphen"/>ing, and the Aſſes feeding in their places, and <hi>Sabeans</hi> came violently and took them<hi>:</hi> yea they have ſlain the ſervants, with the Edge of the Sword; but I onely am eſcaped, and come alone to tell thee.</p>
+               <p>And while he was yet ſpeaking, another came and ſaid, the fire of God is fallen from Heaven, and hath burnt up the Sheep and the Servants, and devoured them: but I onely am eſcaped, and come alone to tell thee.</p>
+               <p>And while he was yet ſpeaking, came another and ſaid; the <hi>Caldeans</hi> ſet out three Bands; and fell upon the Camels, and have taken them, and have ſlain the Servants with the Edge of the ſword; but I only am eſcaped, and come alone to tell thee.</p>
+               <p>And while he was yet ſpeaking, came another, and ſaid, thy Sons and thy Daughters were eating and drinking Wine, in their eldeſt Brothers Houſe; and behold there came a great wind, from beyond the Wilderneſſe, and ſmote the four cor<g ref="char:EOLhyphen"/>ners of the Houſe; which fell upon the Children, and they are dead; and I only am eſcaped, and come alone to tell thee.</p>
+               <p>Thus, each after other, and all upon a ſudden, ſalute their Maſter, with moſt mournful Newes.</p>
+               <p>Alas poor man, from the Wombe to the Grave; as he is
+<pb n="8" facs="tcp:154067:9" rendition="simple:additions"/> born with Cryes, ſo he lives with Croſſes.</p>
+               <p>Take <hi>Moſes,</hi> who was Gods ſervant: take <hi>Aaron,</hi> who was Gods Saint<hi>:</hi> take <hi>Abraham</hi> who was Gods Friend: take <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> who was a man after Gods own Heart: yea, (as I ſaid before) take the only Son of God, who is the Welbeloved of his Father: and we ſhall find them all, bearing the burden, of <hi>continual</hi> Troubles.</p>
+               <p>Good Lord! how ſhort is our time here; and yet, oh how many, are the miſeries, of our momentany continuance.</p>
+               <p>Here we live, but alas, (God knows) ſcarce a day without ſome tryal, trouble; ſome tryal or other to diſquiet us; or, ſome trouble or other, to diſcomfort us.</p>
+               <p>Alas, the pains and patience, which every one in his ſeve<g ref="char:EOLhyphen"/>ral calling, muſt ſadly undertake; is as hard to be under<g ref="char:EOLhyphen"/>gone, as to be underſtood.</p>
+               <p>Oh with what care, and fear do even Princes wear their Crowns? (when by the deſperate preſumption of Re<g ref="char:EOLhyphen"/>bellious ſubjects) the very Crown it ſelf (in a Curſed Ambi<g ref="char:EOLhyphen"/>tion) is taken from their Head, and their Head, from their Shoulders.</p>
+               <p>Ah<hi>—(in fandum renovare cogor)</hi> what an Ugly and Fatall Lodging, that moſt Royal Martyr, when (before his own Gate) he had a Scaffold for his Bed, and a Block for a Pillow, to ſleep his <hi>laſt</hi> in his own Blood: Thus look every way, upon every one, we ſhall find them All, bearing the bur<g ref="char:EOLhyphen"/>den of <hi>continual</hi> Troubles. yea—</p>
+               <p>If we look upon our now gracious King <hi>Charles</hi> the Second, (for whoſe wonderfull Reſtoration we now keep Holy-day.) Was not his Princely Pupill-age, enforcedly trained up in the dreadfull Schoole of an inteſtine War?</p>
+               <p>Hath not his whole life been from that time to this, a dan<g ref="char:EOLhyphen"/>gerous Pilgrimage, from one Kingdome, to another people?</p>
+               <p>Oh how many Plots and Complots, were there to betray his Councels, to deſtroy his Perſon?</p>
+               <p>After his Juſt Coronation in his Kingdome of <hi>Scotland,</hi> and his Juſt Advance to regain his native Kingdome, and the Throne of <hi>England:</hi> How tedious was his march? How pe<g ref="char:EOLhyphen"/>rillous were his Quarters? How impotent was his Army?
+<pb n="9" facs="tcp:154067:9"/> How potent was his Adverſary? How he was beſieged (though he was not taken) and how he was beaten (though he was not Conquer'd) I want words to make the Relation full.</p>
+               <p>Ah<hi>!</hi> to what a miſerable Extremity, and to what an ex<g ref="char:EOLhyphen"/>treme Neceſſity, was his Sacred Majeſty expoſed? when (as today) he was valiantly fighting for his three Kingdomes; is yet, within a night or two flying for his deare life, diſrob'd of his Princely Habit, wandring in a Wood, lodged in a Tree, and glad of a piece of Bread<hi>:—</hi>well,</p>
+               <p>God's providence, and the King's (then) preſervation, was Mercy in a Miracle<hi>:</hi> and God's Mercy, and the King's (now) Reſtoration, is the wonder of the world. And—</p>
+               <p>What ſhall we ſay now, ſince the King's ſwaying of the Scep<g ref="char:EOLhyphen"/>ter, is not more Royal then Auſpicious? What ſhall we ſay now, ſince joyful <hi>England</hi> ſings a <hi>Requiem</hi> in the lap of Peace? What ſhall we ſay now, ſince every one ſits under his own Vine, and eats the fruits of their own labour? What ſhall we ſay now, ſince the King is reſtored to his proper Throne? The Parliament, to its proper Conſtitution? The Church to its proper Right? The Law, to its proper Courts? And the whole Nation, to its proper Freedome? What ſhall we ſay now? Are the troubles even of the King himſelf now ended? Or rather, are not the Thornes of <hi>continuall</hi> Care platted to<g ref="char:EOLhyphen"/>gether in the Jewels of his Crown?</p>
+               <p>
+                  <hi>O Solon, Solon—nemo ante obitum faelix.—</hi>Ah my brethren, what <hi>Craeſus</hi> found, the King feeles, and all may ſay, that our Condition in this world, is to beare the burden of <hi>continuall</hi> troubles.</p>
+               <p>Certainly our Prayers, our Pity, our Lives, our Fortunes, All are but the due Subſidiaries, to the carefull managements of our godly King.</p>
+               <p>His very perſon is Sacred, ſo may his Troubles be; even Sanctified to be undergone.</p>
+               <p>The Lord (in mercy) be gracious to his Majeſty, that while the government of ſo many Millions of people, are com<g ref="char:EOLhyphen"/>mitted to his Charge, he may neither faint, nor fall, under the preſſures of ſo great a charge. for—</p>
+               <p>It cannot be avoided, and it muſt be endured (as the lot
+<pb n="10" facs="tcp:154067:10" rendition="simple:additions"/> of all mankind, on this ſide Heaven,) to beare the burden of <hi>Continuall</hi> Troubles: So ſaith <hi>Job,</hi> in the 14 of that book the laſt verſe, <hi>While his fleſh is upon him, he ſhall be ſorrowfull and while his ſoul is in him it ſhall Mourn.</hi>
+               </p>
+               <p>Let me crave your patience, to inſtance this truth but once more in our Lord and Saviour; who from the place of his Birth, to the place of his Burial, was born very meanly, lived very poorly, and dyed very ſadly.</p>
+               <p n="1">1. He was born very meanly, yea, ſo very meanly born, that <hi>Bethlem</hi> (though St. <hi>Hierome</hi> calls it a pretty City, yet <hi>Micah</hi> calls it a little City; and) that's his place, a common Inne in that City is his Houſe: the Stable in that Inne is his Room<hi>:</hi> the Mainger in that Stable is his Cradle: the Beaſts at the Mainger, are his Company: Ah, ſo contemptible is his Birth, that he is reiected and diſpiſed of men, <hi>Eſay.</hi> 53. 3.</p>
+               <p n="2">2. As Chriſt was born very meanly, ſo he lived very poor<g ref="char:EOLhyphen"/>ly; yea, he ſo very poorly lives, that even of a ſtrange wo<g ref="char:EOLhyphen"/>man he begs, and begs for very water, <hi>John.</hi> 4. 7.</p>
+               <p>He is ſo poor, that his Diſciple muſt fiſh for money, to pay his Tribute. He is ſo poor, that (alas poor man) he hath no houſe nor home: no he is ſo very poor, that (as if his con<g ref="char:EOLhyphen"/>dition, did beſpeak our compaſſion,) he puts the Foxes and the Birds before him<hi>: The Foxes</hi> (ſaith he) <hi>have holes, and the birds of the Aire have Neſts, but the Son of man hath not where to lay his Head.</hi> No,</p>
+               <p>He is ſo very poor, that he is hated, and ſcorned, and blaſ<g ref="char:EOLhyphen"/>phemed<hi>:</hi> one while he is accounted a Deceiver, then for a Divel; one while for a Glutton and a Wine-bibber, then for a friend of Publicans and Sinners: one while for a mad man, then for a Fool, in the end he a Malefactor; and ſo thirdly he very ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dly dyes.—</p>
+               <p>Yea ſo very ſadly, that an Angel from Heaven ſtrengthens him in his very Ante paſſion.</p>
+               <p>He ſo very ſadly dies, that his Agony is Horrid, and his prayer importunate: ſo importunate, that he prayes a firſt, a ſecond and a third time; he falls upon his knees, he falls upon the ground, he falls upon his face and prayes;—Father—Oh my Father,<hi>—Abba Father, If it be poſſible let</hi> this <hi>Cup</hi>
+                  <pb n="11" facs="tcp:154067:10"/> 
+                  <hi>paſs from me, Matth.</hi> 26. 39. <hi>Mark</hi> 14. 36.</p>
+               <p>Oh! <hi>what</hi> a death did our dear Saviour dye! when a Cup <hi>ſo</hi> fill'd, and fill'd ſo <hi>full;</hi> with the <hi>moſt bitter</hi> wrath, of his moſt wrathful Father, againſt thoſe ſinners he undertook to ſave; even <hi>that</hi> Cup drink off he <hi>muſt</hi> and <hi>will;</hi> yea he muſt drink it <hi>off,</hi> and did. Inſomuch,</p>
+               <p>That his Agony is ſo very ſtrange, he ſweats <hi>blood;</hi> and that blood, not in a <hi>thin</hi> diſtilling or <hi>forcing</hi> out its way, through the Curious pores of his moſt tender body: no, but it was ſo <hi>much</hi> that it came forth by <hi>drops,</hi> and thoſe drops ſo <hi>many,</hi> that each followed other trickling down to the Ground, <hi>Luke</hi> 22. 44. Yea,</p>
+               <p>He ſo very ſadly dyes, that he was much <hi>affected,</hi> though he was not <hi>diſturbed:</hi> though he was <hi>not</hi> diſturbed in his <hi>Supe<g ref="char:EOLhyphen"/>riour VVill,</hi> he <hi>was</hi> much affected in his <hi>Naturall VVill:</hi> yea <hi>ſo,</hi> and ſo <hi>much</hi> affected, that he was much <hi>moved</hi> in, (though he was not <hi>Removed</hi> from,) the work of mans Redemp<g ref="char:EOLhyphen"/>tion. No, but—</p>
+               <p>He ſo very ſadly dyes, that, <hi>Pertulit dura verba, duriora ver<g ref="char:EOLhyphen"/>bera, duriſſima Supplicia.</hi> Taking the <hi>Infirmities</hi> of our <hi>frail</hi> Nature, he bore the <hi>puniſhment</hi> of our <hi>ſinfull</hi> Nature: and that <hi>ſuch</hi> puniſhment, as none but God the Father could Inflict; and none but God the Son could Beare. In a word,</p>
+               <p>He ſo very ſadly dies, that he dies ſhamefully, painfully, and notoriouſly; he dies ſhamefully without the City, pain<g ref="char:EOLhyphen"/>fully upon the Croſſe, and notoriouſly among Thieves<hi>:</hi> a<g ref="char:EOLhyphen"/>mong them, ay, and <hi>between</hi> them too, as if he had condu<g ref="char:EOLhyphen"/>cted and led <hi>them</hi> thither. Thus—our bleſſed Lord and Saviour being,</p>
+               <p>Born very meanly.</p>
+               <p>Living very poorly; and,</p>
+               <p>Dying very ſadly.</p>
+               <p>Our obſervation is as <hi>True</hi> as Lamentable. That,</p>
+               <p>The Condition of all mankind, while they are on this ſide Heaven; is a very ſad Condition.</p>
+               <p>Becauſe Firſt, it is ſo Naturally. 2. It is ſo Univerſally. 3. It is ſo Continually.</p>
+               <pb n="12" facs="tcp:154067:11"/>
+               <p> Well then is it ſo, that Jeſus Chriſt and his Diſciples are in a great Tempeſt? Muſt all Mankind <hi>(per tot diſcrimina rerum)</hi> through many Afflictions, enter into Heaven? And muſt all allwaies ſuffer in the world, Ere they ſhall be glorified in the world to come?</p>
+               <p>This then may ſerve to Exhort, and to Encourage us, to beare Chriſt's Croſſe with patience; and to ſubmit <hi>our Will</hi> to <hi>God's Will,</hi> in whatſoever comes to paſſe.</p>
+               <p>And that for theſe three Reaſons.</p>
+               <p>Becauſe</p>
+               <list>
+                  <item>1. Our ſufferings, are not things New.</item>
+                  <item>2. Our ſufferings are not things Strange. and,</item>
+                  <item>3. Our ſufferings are not things Remedileſſe.</item>
+               </list>
+               <p>1. Our Sufferings are not things New, ſo ſaith St. <hi>John,</hi> 1. <hi>Epiſt.</hi> 3. 13. <hi>Marvell not (my brethren) if the world</hi> hate <hi>you:</hi> it's no <hi>New</hi> thing.</p>
+               <p>
+                  <hi>If the world hate</hi> You, ye know (ſaith our bleſſed Saviour,) <hi>that it hated</hi> Me; <hi>it hated me,</hi> before it hated You, <hi>John</hi> 15. 18. Ye know it, it is ſo obvious to your obſervation, it is not worth your wonder. <hi>Marvel not:</hi> for, our ſufferings are not things New.</p>
+               <p>2. They are not things ſtrange: ſo ſaith <hi>St. Pet.</hi> 1 <hi>Epiſt.</hi> 4. 12. <hi>Dearely beloved, think it not ſtrange, concerning the Fiery Tryall which is to Try you; as though ſome ſtrange thing happened unto you.</hi> for,</p>
+               <p>Your Ttroubles are but your Tryals, and as they are not New, to be wondred at: ſo they are not ſtrange to be thought on<hi>:</hi> ſo thought on, as to have your thoughts troubled when your troubles come. no,</p>
+               <p>Come they will, and come upon All, and by All (both Prince and people) they ſhould be borne patiently. for,</p>
+               <p>Troubles are not ſuch New things, as to be wondred at with amazement; nor are they ſuch Strange things, as to be thought on with diſpaire. And that becauſe,</p>
+               <p>3. And Laſtly, our ſufferings are not things Remedileſſe; not Remedileſſe,—no,</p>
+               <p>Bleſſed be God, we have a better <hi>
+                     <g ref="char:V">Ʋ</g>mbrage</hi> to ſave us from the Heat, then the Gourd of <hi>Jonah.</hi>
+               </p>
+               <p>We have a better Deity, to ſupplicate for helpe; then the Idol of <hi>Ahab.</hi>
+               </p>
+               <pb n="13" facs="tcp:154067:11"/>
+               <p> Our God is in Heaven, and this God is our hope, and ſtrength, <hi>A preſent help in Trouble, Pſal.</hi> 46. 1. He is ſo be<g ref="char:EOLhyphen"/>cauſe his power's Allmighty<hi>:</hi> and he will be ſo, becauſe his Mercie's infinite.</p>
+               <p>And yet God many times, ſuffers his deare Children to be brought low; yea ſo very low, that (with the Prophet <hi>Eliah)</hi> they are weary to live, and do deſire to dye: for ſo we read 1 <hi>Kings.</hi> 19. 4. <hi>He went a daies Journey into the wilderneſſe, and came, and ſate down, under a Juniper Tree, and deſired that he might dye:</hi> and ſaid, <hi>It is now enough, O Lord take a<g ref="char:EOLhyphen"/>way my life, for</hi> I <hi>am not better then my Fathers.</hi>
+               </p>
+               <p>But why does the Lord deale thus hardly with his poor Servants, and ſeeme to afflict them even unto death? why doth God leave them many times ſo to themſelves, that they know not what to do, nor where to go? as if their miſery were paſt all Remedy? why truly—</p>
+               <p>The Reaſons may be theſe three.</p>
+               <p>1. To make them the more ſenſible of their danger, and the more zealous for deliverance: that they might the more con<g ref="char:EOLhyphen"/>ſider, the condition they are in, how ſad it is; and how much it needs, the help of Heaven.</p>
+               <p>When the <hi>Iſraelites</hi> in <hi>Egypt,</hi> had their Task doubl'd; and that they muſt make up their Tale, and yet go find their Straw; they then (ſaith the Text,) ſaw themſelves to be in an evil caſe<hi>:</hi> a caſe ſo evil, that it made them cry to <hi>Moſes;</hi> and <hi>Moſes</hi> to cry to God; and God for to ſave the people<hi>:</hi> being ſenſible of their bondage, and zealous for Deliverance.</p>
+               <p>Or (2.) God may ſuffer his dear Children, to be brought very low, to make a tryal of their Graces.</p>
+               <p>If Satan afflict <hi>Job,</hi> it ſhall be to try his Patience. If <hi>Rab<g ref="char:EOLhyphen"/>ſhaketh</hi> revileth <hi>Hezekiah,</hi> it ſhall be to try his Confidence. And if God himſelf tempt <hi>Abraham,</hi> it ſhall be to try his Faith.</p>
+               <p>If the Lord ſuffer an open Enemy, to Aſſault us; or a pri<g ref="char:EOLhyphen"/>vate Enemy, to Abuſe us; if the Lord ſuffer our Wife, and Children, our Liberty, and Livelihood, and all we have to be taken from us<hi>:</hi> if the Lord ſuffer the Ship of all our dear En<g ref="char:EOLhyphen"/>joyments, to be Gravel'd in the Sands of Obloquie, or to be
+<pb n="14" facs="tcp:154067:12" rendition="simple:additions"/> ſplit againſt the Rocks of Tyranny; the Reaſon of all may be but our tryal only: and that either of our Patience (as in the caſe of <hi>Job)</hi> or of our Conſidence (as in the caſe of <hi>Heze<g ref="char:EOLhyphen"/>kiah)</hi> or of our Faith (as in the caſe of <hi>Abraham.)</hi> Or—</p>
+               <p>3. And laſtly, God may ſuffer his dear Children to be brought very low<hi>:</hi> to make them the more thankful when Comfort is given, and Help is had.</p>
+               <p>When the <hi>Iſraelites</hi> had a Raging Sea before them; and a Barren Wilderneſſe beſides them; and an Armed Enemy be<g ref="char:EOLhyphen"/>hind them<hi>:</hi> then (ſaith the Text) <hi>they were ſore affraid,</hi> ſo affraid, that <hi>they cryed out unto the Lord.</hi> And what then? <hi>Stand ſtill</hi> (ſaith Moſes) <hi>and ſee the Salvation of the Lord, which he will ſhew to you, to day,</hi> Exod. 14. 13.</p>
+               <p>
+                  <hi>Stand ſtill, i. e.</hi> be not affraid but hope, <hi>ſtand ſtill and ſee, i. e.</hi> be not Faithleſſe, but believe<hi>: the Salvation of the Lord, i. e.</hi> his Power, as being moſt able to ſave, <hi>which he will ſhew to you, i. e.</hi> his mercy as being moſt willing to ſave, <hi>You,</hi> and that even now <hi>to day, i. e.</hi> his wiſdome as having his ſet time to ſave.</p>
+               <p>God hath his ſet time indeed, and here he ſhew'd it; ſo ſhew'd it, that <hi>Moſes</hi> and the Children of <hi>Iſrael,</hi> Sang a Song unto the Lord, <hi>Exod.</hi> 15. 1.</p>
+               <p>Thus, when Comfort is given, and Help is had, it makes Gods Children to be the more thankful.</p>
+               <p>This made the <hi>Iſraelites,</hi> to keep their Paſchal Feaſt; to praiſe the Lord, for their Freedom from <hi>Pharaoh, Exod.</hi> 12.</p>
+               <p>This made <hi>Deborah,</hi> to ſing her Trinmphal Song; to praiſe the Lord, for the Victory over <hi>Siſera, Judg.</hi> 5.</p>
+               <p>This made <hi>David</hi> to indite his grateful Pſalme, to praiſe the Lord for his Deliverance from <hi>Saul, Pſal.</hi> 18. Yea, and This, makes <hi>England,</hi> to keep this Holy; (even a Feaſt of Congratulation) to praiſe the Lord for the Reſtoration of our Soveraign<hi>:</hi> and the Freedom, Victory, and Deliverance of our Religion, Laws, and Liberty, from <hi>Pharaoh, Siſera,</hi> and <hi>Saul, i. e.</hi> all the Enemies of God, and the King.</p>
+               <p>And thus for theſe three Reaſons, doth God (many times) ſuffer his Saints and Servants to be brought very low. As—</p>
+               <list>
+                  <item>1. To make them, the more Zealous.</item>
+                  <pb n="15" facs="tcp:154067:12" rendition="simple:additions"/>
+                  <item> 2. To make them the more Famous; and,</item>
+                  <item>3. To make them, the more Thankful.</item>
+               </list>
+            </div>
+            <div type="part">
+               <p>Or if you pleaſe; why God ſuffers his Saints, and Servants to be ſo much in, and ſo often under Affliction.</p>
+               <p>The Reaſons may be theſe Four.</p>
+               <p>Becauſe</p>
+               <list>
+                  <item>1. There is Help for it.</item>
+                  <item>2. There is Honour with it.</item>
+                  <item>3. There is Comfort in it; and,</item>
+                  <item>4. There is Profit by it.</item>
+               </list>
+               <div type="section">
+                  <p>
+                     <hi>By Affliction there is Profit.</hi>
+                  </p>
+                  <p>For by the miſery and the Affliction, which the Children of God are brought <hi>unto;</hi> they are brought the ſooner Home (like the Prodigal to his Father) to know God, and them<g ref="char:EOLhyphen"/>ſelves; God's Juſtice, and their own Deſervings.</p>
+                  <p>Yea, by the ſmart of Affliction, they do happily feele God's Anger to the bewailing of their ſins<hi>:</hi> they do bewaile their Sins, to the amending of their Lives: they do amend their Lives, to the gaining of God's Favour, and they gaine his Fa<g ref="char:EOLhyphen"/>vour, to the obtaining of his Glory. And thus,</p>
+                  <p>
+                     <hi>By Affliction there is Profit.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>SECONDLY.</hi> With Affliction there is Honour.</head>
+                  <p>For Affliction makes the Servant like his Lord<hi>:</hi> and Chri<g ref="char:EOLhyphen"/>ſtians like their Saviour; who (diſpiſing the ſhame) endured the Croſſe.</p>
+                  <p>We read 2. <hi>Sam.</hi> 15. 30. that <hi>David</hi> went up the Mount of <hi>Olives,</hi> and Wept as he went up, and had his Head covered, and went bare footed, and all the people that were with him, had every man his Head covered, and as they went up they Wept.</p>
+                  <p>They did ſo, it was their <hi>Piety</hi> to Weepe <hi>for</hi> the King; but their <hi>Honour</hi> to Weepe <hi>with</hi> him.</p>
+                  <p>If the ſuffrings of the King affect the Subjects with Sympa<g ref="char:EOLhyphen"/>thy and Zeale; it is <hi>magnum</hi> indeed, but not <hi>mirum;</hi> becauſe
+<pb n="16" facs="tcp:154067:13"/> it's the Subjects <hi>Honour,</hi> as well as <hi>Duty,</hi> to be <hi>as</hi> their Sove<g ref="char:EOLhyphen"/>raigne, in the worſt of Dangers.</p>
+                  <p>The Marqueſſe of <hi>Ormond.</hi>
+                  </p>
+                  <p>The Lord <hi>Willmot.</hi>
+                  </p>
+                  <p>And the reſt of the Royal Worthies; they could not chuſe but Grieve, to ſuffer <hi>with</hi> the King; in that, the King himſelf did ſuffer, and yet they could not chuſe but Rejoyce too, to ſuffer <hi>for</hi> the King; in that, the Kings Cauſe, was God's, and God's Cauſe—and—the King's, was Theirs. Theirs—</p>
+                  <p>Renowned Nobles, it was their Duty to ſuffer <hi>with</hi> it; but their Honour to ſuffer <hi>for</hi> it. for,</p>
+                  <p>
+                     <hi>With Affliction, there is Honour.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>THIRDLY,</hi> In Affliction there is Comfort.</head>
+                  <p>Comfort indeed, ſuch as made the Diſciples to rejoyce, when they were Beaten; and to ſing Pſalms, when they were in Priſon.</p>
+                  <p>And well they might; for the Author of all their Sufferings, is moſt Gracious<hi>:</hi> the inflicting of them is Juſt<hi>:</hi> the meaſure of them is Moderate<hi>:</hi> the time of them is Short: and the end of them is Bleſſed. for,</p>
+                  <p>
+                     <hi>In Affliction, there is Comfort.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>LASTLY, <hi>For Affliction, there is Hope.</hi>
+                  </head>
+                  <p>There is ſo, for Gods Cauſe, found a <hi>Conſtantine</hi> its De<g ref="char:EOLhyphen"/>fender, in diſpite of the <hi>Arrian</hi> Hereſy. and,</p>
+                  <p>God's Prophets, found an <hi>Obadiah</hi> their Preſerver; in diſ<g ref="char:EOLhyphen"/>pite of <hi>Jezebel's</hi> Cruelty. and,</p>
+                  <p>God's King, found a <hi>Jehoiada,</hi> his Reſtorer, in diſpite of <hi>Athaliahs</hi> Treachery. Yea, and ſo hath our now dread Sove<g ref="char:EOLhyphen"/>raign, <hi>Charles</hi> the Second; he hath (in diſpite of the Treach<g ref="char:EOLhyphen"/>ery, the Cruelty, and Hereſy of all his Enemies) found the King of Kings, his Helper, to defend him; and his Defender, to Preſerve him; and his Preſerver, to Reſtore him; and his Reſtorer, to Eſtabliſh him, in the Throne of his Kingdome, and the Hearts of his People.</p>
+                  <pb n="17" facs="tcp:154067:13"/>
+                  <p> Oh! what cannot the Lord doe? above means, againſt means, without means, and with any means? when—</p>
+                  <p>By means of (that moſt truſty Lord) the Lord <hi>Wil<g ref="char:EOLhyphen"/>mot,</hi> God did defend the King<hi>:</hi> by means of (that moſt Elect Lady) the Lady <hi>Lane,</hi> God did preſerve the King<hi>:</hi> and by means of (that moſt Auſpicious Generall) the Lord <hi>Monck,</hi> God did Reſtore the King.</p>
+                  <p>Oh! what will not the Lord do for thoſe that ſerve him? <hi>Becauſe the King putteth his Truſt in the Lord, in the Mercy of the the moſt High, he ſhall not miſcarry.</hi> He ſhall not, no, he did not: for by a few ſingle <hi>(ſingular)</hi> perſons, ſuch a King is ſo Reſtor'd; that all Chriſtendome admires: and ſuch a Re<g ref="char:EOLhyphen"/>ſtoration, is ſo eſtabliſht; that all the world's amaz'd.</p>
+                  <p>Oh how ſhould this encourage us, never to fall back, never to fall off, and never to fall away from God: both to owne his Cauſe, to eſpouſe his Quarrel, and to ſuffer for his ſake. becauſe,—</p>
+                  <p>When all is done, that evil men can do; and when all is done, that evil Angels can ſuggeſt. <hi>
+                        <g ref="char:V">Ʋ</g>ndone</hi> we ſhall not be, No, ſo ſaith the holy Apoſtle, 2. <hi>Cor.</hi> 4. 8. 9. <hi>We are</hi> trou<g ref="char:EOLhyphen"/>bled <hi>on every ſide, yet not diſtreſsed; we are perplexed, but not in diſpaire: Perſecuted, but not forſaken; caſt down but not de<g ref="char:EOLhyphen"/>ſtroyed.</hi>
+                  </p>
+                  <p>Why? the Pſalmiſt tells you, <hi>Pſal.</hi> 37. 23: 24. <hi>The Lord ordereth the good mans goings, and makes his way acceptable to himſelf.</hi>
+                  </p>
+                  <p>
+                     <hi>Though he fall he ſhall not be caſt away; for the Lord uphold<g ref="char:EOLhyphen"/>eth him with his hand.</hi> And therefore our greateſt Miſery, is not paſt a Remedy: Oh no, (Bleſſed be God) there is—</p>
+                  <p>Helpe for it.</p>
+                  <p>Honour with it.</p>
+                  <p>Comfort in it. and,</p>
+                  <p>Profit by it.</p>
+                  <p>Now to beare up thy poor Soul, againſt the moſt boiſterous winds, and the raging Sea of the moſt tempeſtuous Troubles; remember theſe Four things.</p>
+                  <p>1. That come what will, the Diſciples of Jeſus Chriſt can<g ref="char:EOLhyphen"/>not but do <hi>well.</hi> God's followers are under God's Provi<g ref="char:EOLhyphen"/>dence;
+<pb n="18" facs="tcp:154067:14"/> and his Providence is no leſſe allſufficient then Miſteri<g ref="char:EOLhyphen"/>ous.</p>
+                  <p>For (remember 2.) That Condition is the beſt which the Lord ſends: come a Calme or a Tempeſt, Proſperity or Ad<g ref="char:EOLhyphen"/>verſity, Health or Sickneſſe, Life or Death; that Condition is the beſt, which the Lord ſends; becauſe, every Condition to a Child of God is a ſanctified Condition</p>
+                  <p>The Lord will ſanctifie our <hi>Sorrows,</hi> by giving us comfort; (and I, bleſſed be God have found it ſo.)</p>
+                  <p>The Lord will ſanctifie our <hi>Poverty,</hi> by giving us <hi>Content<g ref="char:EOLhyphen"/>ment:</hi> (and I, bleſſed be God have found it ſo.)</p>
+                  <p>The Lord will ſanctifie our <hi>Troubles,</hi> by giving of us <hi>Pati<g ref="char:EOLhyphen"/>ence;</hi> (and I bleſſed be God have found it ſo.)</p>
+                  <p>The Lord will ſanctifie our <hi>Patience,</hi> by giving us <hi>Delive<g ref="char:EOLhyphen"/>rance,</hi> (and you, and I, and All, bleſſed be God, have found it ſo; as at this day.</p>
+                  <p>Therefore (remember 3.) that thou haſt Jeſus Chriſt with thee in the ſhip.</p>
+                  <p>If at any time a Tempeſt ſhall Ariſe, upon thy <hi>Goods,</hi> by way of <hi>plunder;</hi> or if a Tempeſt ſhall Ariſe upon thy <hi>good Name,</hi> by way of <hi>Slander:</hi> or, if a Tempeſt ſhall Ariſe upon thy <hi>Liberty,</hi> by way of Impriſonment; or, if a Tempeſt ſhall a<g ref="char:EOLhyphen"/>riſe upon any thing thou haſt by way of Oppreſſion, then re<g ref="char:EOLhyphen"/>member (I ſay,) that thou haſt Jeſus Chriſt with thee in the ſhip; though he be but in the <hi>hinder part;</hi> yet there he is, ab<g ref="char:EOLhyphen"/>ſent himſelf he will not, and want for help thou canſt not ſo long as he is there. for,</p>
+                  <p>4. And laſtly remember, that as the Glory of Jeſus Chriſt ſhall (one day) be <hi>Thine,</hi> ſo (for the preſent) <hi>thy ſufferings</hi> ſhall be <hi>his.</hi>
+                  </p>
+                  <p>His <hi>Glory</hi> ſhall be thine; for the Glory that thou gaveſt <hi>Me,</hi> I have given <hi>Them,</hi> (ſaith Chriſt) that <hi>they</hi> may be <hi>one,</hi> as <hi>we</hi> are <hi>one. Father, I will that they which thou haſt given me, be with me, even where I am; that they may behold my Glory. John</hi> 17. 22. 24. and till then,—</p>
+                  <p>Thy ſufferings ſhall be his; <hi>Saul, Saul,</hi> (ſaith Chriſt) <hi>Why perſecuteſt thou me?</hi> Me, the Lord is wounded through his ſer<g ref="char:EOLhyphen"/>vants ſides, and the wrongs done <hi>them,</hi> are as done unto <hi>him<g ref="char:EOLhyphen"/>ſelf. Acts.</hi> 9. 4.</p>
+                  <pb n="19" facs="tcp:154067:14"/>
+                  <p> Come then, Oh come poor ſoul acheer, let not thy Heart be <hi>over ſad;</hi> nor thy Spirit <hi>diſquieted.</hi> The Deluge did but mount the Arke the nearer unto Heaven: and the Tempeſt here, did but make the Diſciples to know the Lord the more.</p>
+                  <p>No Winds nor Weather, nor Waves, nor Rocks, can Wrack the Veſſel in which Chriſt ſailes; no, nor Words, nor Acti<g ref="char:EOLhyphen"/>ons, nor Men, nor Divels, can Aſſinate the King; whom the Lord preſerves. for,</p>
+                  <p>The Lord will <hi>hide</hi> him, and that <hi>privily;</hi> he will hide him privily, and that <hi>by his own preſence,</hi> from the provoking of all men: ye a, and he will <hi>keep</hi> him too, and that ſecretly; he will keep him ſecretly, and that <hi>in his own Tabernacle</hi> from the ſtrife of Tongues, <hi>Pſal.</hi> 31. 22. and now—</p>
+                  <p>Oh <hi>(miranda loquor)</hi> what a providence have we ſeen, made happily obvious, to the glory of our good God; the ſettlement of this diſturbed Nation, and the wonder of all the World!</p>
+                  <p>Oh, how may our Mouthes be filled with Laughter, and our Tongues with Joy, ſince the Lord (in mercy) hath (ſo ſtrangely and ſo truly) made, our Bondage to ceaſe; and our Freedome to return!</p>
+                  <p>Oh, that our Lawful king, our Native Prince, (ſo long a time, by ſo ſtrong a hand, Baniſht from his Rightful Throne) ſhould now return, return in peace; without any blood ſpilt, or any perſon hurt in ſo wonderful a Tryumph; that his Ma<g ref="char:EOLhyphen"/>jeſty ſhould be brought Home, with prayers of affection, and teares of joy<hi>:</hi> flying (as it were) upon the Wings of the love and loyalty, of all faithfull Subjects<hi>:</hi> certainly 'tis a pro<g ref="char:EOLhyphen"/>vidence, never to be forgotten: 'tis a mercy to be acknow<g ref="char:EOLhyphen"/>ledged; this day, henceforth, and for ever!</p>
+                  <p>Oh let us ſo Honour the King, as to ſerve God; and ſo ſerve God, as to love our Neighbour<hi>:</hi> that ſo, being alway Holy towards God, and Loyal to our Soveraign, and loving to each other; we may keepe, and alwaies keepe, the Unity of the Spirit, in the Bond of Peace.</p>
+                  <p>Which that we may, let us ſo live, as becomes the Goſpel; let us (now) ſo rejoyce, as becomes good Subjects: and Oh, remember (I beſeech you) that, it is not the owning of the
+<pb n="20" facs="tcp:154067:15"/> King's Cauſe, nor the Honouring of the King's Perſon, nor the Drinking of the King's Health; but it is our fearing of God, and amending our lives<hi>:</hi> which will make the King Hap<g ref="char:EOLhyphen"/>py, and our ſelves bleſſed. To conclude—</p>
+                  <p>Let us remember, when any Affliction doth befall, either our Prince or the Church, or the State, or our ſelves, then not to think it either Strange, or New, or Remedileſſe.</p>
+                  <p>Not Strange, becauſe tis Natural:</p>
+                  <p>Not New, becauſe tis Common:</p>
+                  <p>Not Remedileſſe, becauſe tis Curable<hi>:</hi>
+                  </p>
+                  <p>For we have a Lord to ſave us, in the moſt periſhing Condi<g ref="char:EOLhyphen"/>tion<hi>: This day</hi> we have (knowingly) found it; and we do <hi>this day</hi> thankfully acknowledge it, in the preſent Reſtoration of our Soveraigne King <hi>Charles.</hi>
+                  </p>
+                  <p>And therefore that the Lord our God, may bleſſe our King, and bleſſe <hi>
+                        <g ref="char:V">Ʋ</g>S All;</hi> let us ever Pray,—</p>
+                  <p>
+                     <hi>Lord Save us, or we Periſh.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
